@@ -63,7 +63,7 @@ Engagement Rate = DIVIDE(SUM('Ads'[Likes]) + SUM('Ads'[Shares]) + SUM('Ads'[Comm
 
 ## 🌐 View the Dashboard Online
 
-You can view the interactive dashboard [**here**](#)  <!-- Replace # with Power BI public link -->
+You can view the interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMTAxYzZkZTgtYzEzNS00ZTVlLTlhNTMtYmU2NjhlYmU3MTUwIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
 
 ## 🧑‍💻 Author
 
