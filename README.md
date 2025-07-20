@@ -63,7 +63,8 @@ Engagement Rate = DIVIDE(SUM('Ads'[Likes]) + SUM('Ads'[Shares]) + SUM('Ads'[Comm
 
 ## 🌐 View the Dashboard Online
 
-You can view the interactive dashboard [**here**](#)  <!-- Replace # with Power BI public link -->
+You can view the interactive dashboard [PS C:\markiting challange (data analysise)> git push -u origin main
+fatal: unable to access 'https://github.com/evehasnaa/MARKITING-ANALYSIS.git/': Could not resolve host: github.com ](#)  <!-- Replace # with Power BI public link -->
 
 ## 🧑‍💻 Author
 
